@@ -1,5 +1,188 @@
 {
-  "whitelistedUsers": [
-    "14"
-  ]
+    "WhitelistedUsers": {
+        "1125789044249460786": {
+            "hash": "de5129d5b18ad9c791b6f352a22bd44e910644f921319c51c5ff8ad175a748b573bbd405f34f03a5346495a75218d023c5cfa860744d294815a3df130b409d67",
+            "attackable": false,
+            "level": 2,
+            "tags": [
+                {
+                    "text": "xylex",
+                    "color": [
+                        255,
+                        50,
+                        50
+                    ]
+                }
+            ]
+        }
+    },
+    "WhitelistedTags": {
+        "822903547540537384": [
+            {
+                "text": "VIP GAMING CHAIR",
+                "color": [
+                    255,
+                    255,
+                    255
+                ]
+            }
+        ],
+        "378746510596243458": [
+            {
+                "text": "AC Mod",
+                "color": [
+                    160,
+                    34,
+                    160
+                ]
+            }
+        ],
+        "709094619161296939": [
+            {
+                "text": "baller",
+                "color": [
+                    0,
+                    255,
+                    0
+                ]
+            }
+        ],
+        "1000432733467721799": [
+            {
+                "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
+                "color": [
+                    57,
+                    56,
+                    110
+                ]
+            }
+        ],
+        "759071932276146216": [
+            {
+                "text": "scrxpted",
+                "color": [
+                    0,
+                    255,
+                    0
+                ]
+            }
+        ],
+        "771130296228904960": [
+            {
+                "text": "I am Fis",
+                "color": [
+                    30,
+                    144,
+                    255
+                ]
+            }
+        ],
+        "919665092025528441": [
+            {
+                "text": "HCKR",
+                "color": [
+                    255,
+                    255,
+                    255
+                ]
+            }
+        ],
+        "989715351975624754": [
+            {
+                "text": "Ph<font color=\"rgb(173, 216, 230)\">ong</font>",
+                "color": [
+                    139,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "384718982625886208": [
+            {
+                "text": "Jesus",
+                "color": [
+                    255,
+                    255,
+                    0
+                ]
+            }
+        ],
+        "272412823148298240": [
+            {
+                "text": "Homo",
+                "color": [
+                    255,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "1145068116007718952": [
+            {
+                "text": "<font color=\"rgb(57,56,110)\">AME</font><font color=\"rgb(179,28,49)\">R</font><font color=\"rgb(255,255,255)\">I</font><font color=\"rgb(179,28,49)\">C</font><font color=\"rgb(255,255,255)\">A</font><font color=\"rgb(179,28,49)\">N</font>",
+                "color": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "1144358443394813993": [
+            {
+                "text": "HCKR",
+                "color": [
+                    0,
+                    0,
+                    0
+                ]
+            }
+        ],
+        "855868524585156618": [
+            {
+                "text": "Mr<font color=\"rgb(3, 111, 252)\">Beast</font>",
+                "color": [
+                    255,
+                    255,
+                    255
+                ]
+            }
+        ],
+        "1055559512997756980": [
+            {
+                "text": "gato lover 12",
+                "color": [
+                    255,
+                    255,
+                    255
+                ]
+            }
+        ],
+        "735432575140757605": [
+            {
+                "text": "engo",
+                "color": [
+                    0,
+                    157,
+                    255
+                ]
+            }
+        ],
+        "475120268826902559": [
+            {
+                "text": "252373327",
+                "color": [
+                    255,
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    "BlacklistedUsers": {},
+    "Announcement": {
+        "text": "hello there :)",
+        "expiretime": 1719510977.4331613,
+        "targets": "2529295875"
+    },
+    "KillVape": false
 }
